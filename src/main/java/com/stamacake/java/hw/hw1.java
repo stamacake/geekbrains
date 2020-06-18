@@ -11,6 +11,8 @@ public class hw1 {
         System.out.println("10+20<20: "+check1020(10,20));
         System.out.println();
 
+
+        
         // task2
         System.out.println("Task 2\n---------");
         System.out.print("10 is ");
